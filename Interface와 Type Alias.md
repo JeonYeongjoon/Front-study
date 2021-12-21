@@ -29,27 +29,6 @@ Interface는 타입으로 사용 가능하고 Type Alias도 마찬가지로 타�
 
 
 <h3>
-    예시
-</h3>
-
-<h5>
-    Interface 예시
-</h5>
-
-![image-20211221095929458](C:\Users\1113 전영준\AppData\Roaming\Typora\typora-user-images\image-20211221095929458.png)
-
-
-
-
-<h5>
-    Type Alias 예제
-</h5>
-
-![image-20211221100059698](C:\Users\1113 전영준\AppData\Roaming\Typora\typora-user-images\image-20211221100059698.png)
-
-
-
-<h3>
     정리
 </h3>
 
