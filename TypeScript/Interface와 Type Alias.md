@@ -5,9 +5,6 @@
     Interface란 
 </h2>
 
-
-***
-
 TypeScript의 핵심 원칙 중 하나는 타입 검사가 값의 형태에 초점을 맞추고 있다.
 이를 "덕 타이핑(duck typing)" 또는 "구조적 서브타이핑(structural subtyping)"이라고 한다.
 TypeScript에서, Interface는 이런 타입들의 이름을 짓는 역할을 하고 코드 안의 계약을 정의하는 
