@@ -1,10 +1,6 @@
 <h1>
     Interface와 Type
 </h1>
-
-<<<<<<< HEAD
-
-
 <h2>
     Interface란 
 </h2>
